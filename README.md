@@ -13,7 +13,6 @@
 - Git Hub Do Canal [LZ MODS OFICIAL](https://www.youtube.com/channel/UCy0zGQxBX-MXDEAGY6VLJXQ)
    
 ----------- LZ :) -----------
-   
     
 - [Meu Zip Zop](https://wa.me/556284944742)
     
@@ -22,9 +21,9 @@
 - [Como Instalar a Albedo Bot](https://gihub.com/lzmodsoficial/aleatory)
     
 - [Como Instalar o Aleatory Bot](https://gihub.com/lzmodsoficial/albedolite)
-    
+
+------------------------------
       ( Heroku )
-    
 - Video Explicando Como Hospedar: [Clique](https://www.youtube.com/watch?v=Ah4n6d1t2Yc&t=24s)
 
 ## Comandos Para Hospedar Na Heroku
