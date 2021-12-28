@@ -15,15 +15,15 @@
  ------------------------------------------------------------------------------------
       (</LZ MODS/>)
     
-- [Meu Zip Zop](https://wa.me/556284944742)
+- [~~~ Meu Zip Zop ~~~](https://wa.me/556284944742)
     
-- [Meu Grupo (La Tem Bots)](https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
+- [~~~ Meu Grupo (La Tem Bots) ~~~](https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
     
-- [Como Instalar a Albedo Bot](https://gihub.com/lzmodsoficial/aleatory)
+- [~~~ Como Instalar a Albedo Bot ~~~](https://gihub.com/lzmodsoficial/aleatory)
     
-- [Como Instalar o Aleatory Bot](https://gihub.com/lzmodsoficial/albedolite)
+- [~~~ Como Instalar o Aleatory Bot ~~~](https://gihub.com/lzmodsoficial/albedolite)
 
-      ( Heroku )
+      ( </Heroku/> )
 - Video Explicando Como Hospedar: [Clique](https://www.youtube.com/watch?v=Ah4n6d1t2Yc&t=24s)
  ------------------------------------------------------------------------------------
 ## Comandos Para Hospedar Na Heroku
