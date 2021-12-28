@@ -12,9 +12,8 @@
 
 - Git Hub Do Canal [LZ MODS OFICIAL](https://www.youtube.com/channel/UCy0zGQxBX-MXDEAGY6VLJXQ)
    
- ------------------------------------------------------------------------------------
        </LZ MODS/> 
-    
+------------------------------------------------------------------------------------
 - [~ Meu Zip Zop ~](https://wa.me/556284944742)
     
 - [~ Meu Grupo (La Tem Bots) ~](https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
