@@ -20,9 +20,9 @@
 
 - [~ Meu Grupo (La Tem Bots) ~](https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
 
-- [~ Como Instalar a Albedo Bot ~](https://gihub.com/lzmodsoficial/aleatory)
+- [~ Como Instalar a Albedo Bot ~](https://github.com/lzmodsoficial/albedolite)
 
-- [~ Como Instalar o Aleatory Bot ~](https://gihub.com/lzmodsoficial/albedolite)
+- [~ Como Instalar o Aleatory Bot ~](https://github.com/lzmodsoficial/aleatory)
 
 - [~ Como Criar Numero Fake +1 ~](https://www.youtube.com/watch?v=cNXmD8fn4mQ)
  ------------------------------------------------------------------------------------
