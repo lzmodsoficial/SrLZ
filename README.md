@@ -3,7 +3,7 @@
 </div>
 <p align="center">
   <h4 align="center">
-<img src="https://telegra.ph/file/249a1ac9ecb5fbfb4c9cc.jpg" alt="Aleatory Bot v4.2 " width="300" />
+<img src="https://telegra.ph/file/bee3283fd8aae6cbc6c24.jpg" alt="Aleatory Bot v4.2 " width="300" />
 
 </div>
 <p align="center">
