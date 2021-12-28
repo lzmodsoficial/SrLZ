@@ -29,7 +29,7 @@
 - Comandos Pra Hospedar: [Clique](https://www.mediafire.com/file/xbzkwrfcvd7o38y/COMANDOS-HEROKU-ALEATORY.txt/file)
  ------------------------------------------------------------------------------------
        </Botões/> 
-bash```
+```bash
 case 'buttons':
 buttons = [{buttonId: `null`,buttonText:{displayText: '⚡ BY ⚡'},type:1},{buttonId:`null`,buttonText:{displayText:'⚡ LZ ⚡'},type:1},{buttonId:`null`,buttonText:{displayText:'⚡ MODS ⚡'},type:1}]
 
