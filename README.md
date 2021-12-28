@@ -13,6 +13,8 @@
 - Git Hub Do Canal [LZ MODS OFICIAL](https://www.youtube.com/channel/UCy0zGQxBX-MXDEAGY6VLJXQ)
  ------------------------------------------------------------------------------------
    </LZ MODS/> 
+    
+   ( Clique Em Cima )
 
 - [~ Meu Zip Zop ~](https://wa.me/556284944742)
 
