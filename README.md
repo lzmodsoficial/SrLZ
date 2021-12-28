@@ -28,3 +28,25 @@
     
 - Comandos Pra Hospedar: [Clique](https://www.mediafire.com/file/xbzkwrfcvd7o38y/COMANDOS-HEROKU-ALEATORY.txt/file)
  ------------------------------------------------------------------------------------
+       </Botões/> 
+bash```
+case 'buttons':
+buttons = [{buttonId: `null`,buttonText:{displayText: '⚡ BY ⚡'},type:1},{buttonId:`null`,buttonText:{displayText:'⚡ LZ ⚡'},type:1},{buttonId:`null`,buttonText:{displayText:'⚡ MODS ⚡'},type:1}]
+
+imageMsg = (await client.prepareMessageMedia(fs.readFileSync(`./videoyt/lz.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./videoyt/lz.jpg`)})).imageMessage
+
+lzmodsdominabb = "inscreva-se no canal lz mods oficial estou quase nos 100 inscritos ajudae :)"
+
+buttonsMessage = {
+contentText: lzmodsdominabb,
+footerText: "inscreva-se para mais videos como esse", imageMessage: imageMsg,
+buttons: buttons,
+headerType: 4
+}
+prep = await client.prepareMessageFromContent(from,{buttonsMessage},{quoted: mek})
+client.relayWAMessage(prep)
+reply('#lz100subs')
+reply('ou peita ou respeita')
+break
+``` 
+  - [~ Como Colocar No Seu Bot ( Clique ) ~](https://www.youtube.com/watch?v=t8lfylRldm8&t=6s)
