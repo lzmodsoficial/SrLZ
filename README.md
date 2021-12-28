@@ -1,4 +1,4 @@
-# </Aleatory Bot v4.2/>
+# </LZ MODS OFICIAL/>
 <div align="center">
 </div>
 <p align="center">
