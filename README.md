@@ -23,10 +23,9 @@
     
 - [Como Instalar o Aleatory Bot](https://gihub.com/lzmodsoficial/albedolite)
 
-------------------------------------------------------------------------------------
       ( Heroku )
 - Video Explicando Como Hospedar: [Clique](https://www.youtube.com/watch?v=Ah4n6d1t2Yc&t=24s)
-
+ ------------------------------------------------------------------------------------
 ## Comandos Para Hospedar Na Heroku
 ```bash
     
