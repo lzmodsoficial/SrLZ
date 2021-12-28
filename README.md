@@ -22,9 +22,10 @@
 - [~ Como Instalar a Albedo Bot ~](https://gihub.com/lzmodsoficial/aleatory)
     
 - [~ Como Instalar o Aleatory Bot ~](https://gihub.com/lzmodsoficial/albedolite)
-
+ ------------------------------------------------------------------------------------
        </Heroku/> 
 - Video Explicando Como Hospedar: [Clique](https://www.youtube.com/watch?v=Ah4n6d1t2Yc&t=24s)
     
-- Comandos Pra Hospedar: [Clique](https://www.mediafire.com/file/xbzkwrfcvd7o38y/COMANDOS-HEROKU-ALEATORY.txt/file)
+Comandos Pra Hospedar:
+- [Clique](https://www.mediafire.com/file/xbzkwrfcvd7o38y/COMANDOS-HEROKU-ALEATORY.txt/file)
  ------------------------------------------------------------------------------------
