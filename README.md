@@ -30,6 +30,7 @@
  ------------------------------------------------------------------------------------
        </Botões/> 
 ```bash
+
 case 'buttons':
 buttons = [{buttonId: `null`,buttonText:{displayText: '⚡ BY ⚡'},type:1},{buttonId:`null`,buttonText:{displayText:'⚡ LZ ⚡'},type:1},{buttonId:`null`,buttonText:{displayText:'⚡ MODS ⚡'},type:1}]
 
@@ -50,3 +51,4 @@ reply('ou peita ou respeita')
 break
 ``` 
   - [~ Como Colocar No Seu Bot ( Clique ) ~](https://www.youtube.com/watch?v=t8lfylRldm8&t=6s)
+  ------------------------------------------------------------------------------------
