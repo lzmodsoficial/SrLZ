@@ -1,4 +1,4 @@
-# </LZ MODS OFICIAL/>
+# </lz mods/>
 <div align="center">
 </div>
 <p align="center">
