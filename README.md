@@ -31,7 +31,7 @@ cd /sdcard
 git clone https://github.com/lzmodsoficial/SrLZ.git
 cd insta-bot
 node lz
-    
+    H
 ``` 
 
   ------------------------------------------------------------------------------------
